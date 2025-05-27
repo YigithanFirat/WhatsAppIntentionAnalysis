@@ -53,36 +53,43 @@ pip install pandas scikit-learn nltk flask
 niyet_verisi.csv dosyası içerisinde "text" ve "label" (bilgi/şikayet) sütunları bulunur.
 Veri temizleme ve ön işleme bu dosya üzerinden yapılır.
 
+The niyet_verisi.csv file contains "text" and "label" (information/complaint) columns.
+Data cleaning and preprocessing are performed using this file.
+
 ## 📦 Kullanım / Usage
 
-1. Veri temizleme ve ön işleme yapılır.
+1. Veri temizleme ve ön işleme yapılır. / Data cleaning and preprocessing are performed.
 
-2. TF-IDF ile metinler sayısal verilere dönüştürülür.
+2. TF-IDF ile metinler sayısal verilere dönüştürülür. / Texts are converted into numerical data using TF-IDF.
 
-3. Naive Bayes algoritması ile model eğitilir.
+3. Naive Bayes algoritması ile model eğitilir. / The model is trained with the Naive Bayes algorithm.
 
-4. Model, test verisi ile doğrulanır.
+4. Model, test verisi ile doğrulanır. / The model is validated on test data.
 
-5. Flask API endpoint'ine mesaj gönderilerek sınıflandırma yapılabilir.
+5. Flask API endpoint'ine mesaj gönderilerek sınıflandırma yapılabilir. / Classification can be done by sending messages to the Flask API endpoint.
 
 ## 📊 Model Performansı / Model Performance
 
-• Eğitim ve test doğrulukları
+• Eğitim ve test doğrulukları // Training and test accuracies
 
-• Precision, recall, f1-score
+• Precision, recall, f1-score / Precision, recall, f1-score
 
-• Confusion matrix görselleştirme
+• Confusion matrix görselleştirme / Confusion matrix visualization
 
 ## 🤝 Katkıda Bulunma / Contributing
 
 Katkıda bulunmak isterseniz, lütfen bir "issue" açın veya direkt "pull request" gönderin.
 
+If you want to contribute, please open an issue or submit a pull request directly.
+
 ## 📄 Lisans / License
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasına bakınız.
 
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## İletişim / Contact
-Proje sahibi: Yiğithan Fırat
+Proje sahibi: Yiğithan Fırat / Project Owner: Yiğithan Fırat
 E-posta: yigithanfirat@gmail.com
 
 Thank you for checking out this project!
