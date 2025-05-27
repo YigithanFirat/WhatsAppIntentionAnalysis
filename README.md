@@ -79,9 +79,12 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyas
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## İletişim / Contact
-Proje sahibi: Yiğithan Fırat / Project Owner: Yiğithan Fırat
-E-posta: yigithanfirat@gmail.com
-E-mail: yigithanfirat@gmail.com
+
+**Proje sahibi:** Yiğithan Fırat  
+**Project Owner:** Yiğithan Fırat  
+
+**E-posta:** yigithanfirat@gmail.com  
+**E-mail:** yigithanfirat@gmail.com
 
 Thank you for checking out this project!
 Bu projeyi incelediğiniz için teşekkürler!
