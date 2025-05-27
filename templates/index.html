@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>ChatBOT | Metin Sınıflandırma</title>
+  <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
+  <link rel="icon" href="{{ url_for('static', filename='CSS/styles.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h2>🤖 Metin Sınıflandırıcı 🧠</h2>
+    <div class="input-group">
+      <input type="text" id="userInput" placeholder="Bir metin girin..." autocomplete="off" />
+      <button onclick="sendMessage()" id="sendBtn">Gönder</button>
+    </div>
+    <p id="response"></p>
+  </div>
+  <script src="{{ url_for('static', filename='JS/app.js') }}"></script>
+</body>
+</html>
