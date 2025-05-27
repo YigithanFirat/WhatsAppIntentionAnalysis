@@ -16,23 +16,13 @@ Natural Language Processing (NLP) techniques and machine learning algorithms are
 
 ## ⚙️ Özellikler / Features
 
-- Türkçe WhatsApp mesajlarını sınıflandırma  
-- "Bilgi" ve "Şikayet" sınıflandırması  
-- Veri temizleme ve ön işleme  
-- TF-IDF vektörleştirme  
-- Multinomial Naive Bayes sınıflandırıcı  
-- Eğitim, test ve doğruluk raporlama  
-- Basit API ile entegre edilebilirlik  
-
-- Classification of Turkish WhatsApp messages  
-- "Information" and "Complaint" classification  
-- Data cleaning and preprocessing  
-- TF-IDF vectorization  
-- Multinomial Naive Bayes classifier  
-- Training, testing, and accuracy reporting  
-- Easily integrable via a simple API  
-
----
+- Türkçe WhatsApp mesajlarını sınıflandırma / Classification of Turkish WhatsApp messages
+- "Bilgi" ve "Şikayet" sınıflandırması / "Information" and "Complaint" classification 
+- Veri temizleme ve ön işleme / Data cleaning and preprocessing 
+- TF-IDF vektörleştirme / TF-IDF vectorization
+- Multinomial Naive Bayes sınıflandırıcı / Multinomial Naive Bayes classifier
+- Eğitim, test ve doğruluk raporlama / Training, testing, and accuracy reporting 
+- Basit API ile entegre edilebilirlik / Easily integrable via a simple API 
 
 ## 🚀 Başlangıç / Getting Started
 
