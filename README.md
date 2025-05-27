@@ -47,3 +47,43 @@ Natural Language Processing (NLP) techniques and machine learning algorithms are
 ```bash
 pip install pandas scikit-learn nltk flask
 ```
+
+### Veri Seti / Dataset
+
+niyet_verisi.csv dosyası içerisinde "text" ve "label" (bilgi/şikayet) sütunları bulunur.
+Veri temizleme ve ön işleme bu dosya üzerinden yapılır.
+
+## 📦 Kullanım / Usage
+
+1. Veri temizleme ve ön işleme yapılır.
+
+2. TF-IDF ile metinler sayısal verilere dönüştürülür.
+
+3. Naive Bayes algoritması ile model eğitilir.
+
+4. Model, test verisi ile doğrulanır.
+
+5. Flask API endpoint'ine mesaj gönderilerek sınıflandırma yapılabilir.
+
+## 📊 Model Performansı / Model Performance
+
+• Eğitim ve test doğrulukları
+
+• Precision, recall, f1-score
+
+• Confusion matrix görselleştirme
+
+## 🤝 Katkıda Bulunma / Contributing
+
+Katkıda bulunmak isterseniz, lütfen bir "issue" açın veya direkt "pull request" gönderin.
+
+## 📄 Lisans / License
+
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasına bakınız.
+
+## İletişim / Contact
+Proje sahibi: Yiğithan Fırat
+E-posta: yigithanfirat@gmail.com
+
+Thank you for checking out this project!
+Bu projeyi incelediğiniz için teşekkürler!
