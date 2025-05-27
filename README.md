@@ -45,4 +45,5 @@ Natural Language Processing (NLP) techniques and machine learning algorithms are
 - Flask (opsiyonel, API için)  
 
 ```bash
-pip install pandas scikit-learn nltk flask```
+pip install pandas scikit-learn nltk flask
+```
